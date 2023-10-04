@@ -1,4 +1,4 @@
-9adac1f7f712252ccd885f0856f33010 *DESCRIPTION
+b9f4f3521bb6c8bdcec91cd6d05050a0 *DESCRIPTION
 3aa3337d9909e6727b6a5273157b5d1a *LICENSE
 253ac668a5315f8c4940dfc110f23035 *NAMESPACE
 49686c526b7b58f945b79ec902b7dc40 *R/boundaries.R
@@ -10,6 +10,7 @@ fed8c1a472ea6de4758109f28489dca3 *R/filterdata.R
 3ddba3255b28dc483943046dbaaaa859 *R/plotfunctions.R
 b29d7c7622ef0aece40098347a741873 *R/spectdata.R
 b406f1ebaac7581840f370ef9a8d7814 *R/spectra.R
+cd687350e6b6d9c80efbc65cff832438 *README.md
 a8ffd9948464d059e7dc634dcd9399f5 *data/A_b.rda
 801643a58eab59b70d5d6abc9803c6f4 *data/A_b_bp.rda
 7238e974e69ebf01aa7755af550382a1 *data/blossom.rda
@@ -30,5 +31,5 @@ d84f849fbb080c9ccb57dff4e83750e5 *man/dtmean.Rd
 f57d33692dd82cd555875f75b71a4991 *man/get_en.Rd
 baa259ad3895ab55cefcf953d8a1ad08 *man/smooth_borders.Rd
 33013057f1a44963e16002262b5d7a1e *man/uvplot.Rd
-c34695fe8e9cf1f15e531778d0411b05 *src/biascor.f95
-7b2488dcd6c2456c9dd6b34693a632fd *src/getcen.f95
+0f4ad5140c3b4a177285f5ce8ebd5b36 *src/biascor.f95
+9969ead80cec5a0f40e372ceababf750 *src/getcen.f95
